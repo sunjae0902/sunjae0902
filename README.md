@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sunjae0902
-- 🌱 I’m currently learning bioinformatic and computer science in Soongsil University.
+- 🌱 I’m currently learning computer science in Soongsil University.
 - 🌱 I usually using C, Python and Dart !
 - e-mail: sunjaegg0902@naver.com
 <!---
