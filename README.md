@@ -3,7 +3,7 @@
     <img src="https://capsule-render.vercel.app/api?type=wave&color=#b897ff&height=100&text=&animation=&fontColor=000000&fontSize=70" />
     </div>
     <div style="text-align: left;"> 
-    <h2 align="center" style="border-bottom: 1px solid #d8dee4; color: #282d33;"><p>Hi 👋🏻 I'm SunJae!<br>
+    <h2 align="center" style="border-bottom: 1px solid #d8dee4; color: #282d33;"><p>Hi 👋🏻 I'm SunJae! 👩🏻‍💻<br>
  📚I major in Software at Soongsil Univ.</p></h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">  </div> 
     </div>
