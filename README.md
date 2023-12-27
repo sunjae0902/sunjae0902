@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sunjae0902
-- 🌱 I’m currently learning computer science in Soongsil University.
+- 🌱 I’m currently learning Computer Science in Soongsil University.
 
 - e-mail: sunjaegg0902@naver.com
 <!---
