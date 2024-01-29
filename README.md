@@ -12,7 +12,6 @@
  <h3 align="center"><b>💌 Social </b></h3>
 <p align="center">
 <a href="mailto:sunjaegg0902@naver.com><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:sunjaegg0902@naver.com"/></a>
-<a href="https://www.instagram.com/sunjaenation"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/sunjaenation"/></a>
 <a href="https://blog.naver.com/sunjaenation"><img src="http://img.shields.io/badge/-NBlog-03C75A?style=for-the-badge&link=https://blog.naver.com/sunjaenation"/></a>
 </p>
 <h3 align="center"><b>📚 Skills </b></h3>  
