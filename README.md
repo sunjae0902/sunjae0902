@@ -9,12 +9,12 @@
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">  </div> 
     </div> -->
     
-
+<!--
  <h3 align="center"><b>💌 Social </b></h3>
 <p align="center">
 <a href="mailto:sunjaegg0902@naver.com><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:sunjaegg0902@naver.com"/></a>
 <a href="https://blog.naver.com/sunjaenation"><img src="http://img.shields.io/badge/-NBlog-03C75A?style=for-the-badge&link=https://blog.naver.com/sunjaenation"/></a>
-</p>
+</p>-->
 <h3 align="center"><b>📚 Skills </b></h3>  
 <p align="center"> 
 <img src="https://img.shields.io/badge/c-A8B9CC.svg?style=for-the-badge&logo=C&logoColor=white"/>
